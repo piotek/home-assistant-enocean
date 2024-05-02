@@ -12,7 +12,9 @@ Die Firma Eltako als einer der großen Komponentenhersteller für das EnOcean Sy
 
 # Anschluss an Smart Home Zentralen
 
-
+1. Funk-Gateways
+2. Bus Gateways
+   
 
 
 
